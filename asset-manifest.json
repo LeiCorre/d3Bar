@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bargraph/static/css/main.062ba9dd.chunk.css",
+    "main.js": "/bargraph/static/js/main.61222257.chunk.js",
+    "main.js.map": "/bargraph/static/js/main.61222257.chunk.js.map",
+    "runtime-main.js": "/bargraph/static/js/runtime-main.f41f40ed.js",
+    "runtime-main.js.map": "/bargraph/static/js/runtime-main.f41f40ed.js.map",
+    "static/js/2.e7bdb8ea.chunk.js": "/bargraph/static/js/2.e7bdb8ea.chunk.js",
+    "static/js/2.e7bdb8ea.chunk.js.map": "/bargraph/static/js/2.e7bdb8ea.chunk.js.map",
+    "index.html": "/bargraph/index.html",
+    "precache-manifest.0ad9a9c7ccec785f7987e3e1e78e7280.js": "/bargraph/precache-manifest.0ad9a9c7ccec785f7987e3e1e78e7280.js",
+    "service-worker.js": "/bargraph/service-worker.js",
+    "static/css/main.062ba9dd.chunk.css.map": "/bargraph/static/css/main.062ba9dd.chunk.css.map",
+    "static/js/2.e7bdb8ea.chunk.js.LICENSE.txt": "/bargraph/static/js/2.e7bdb8ea.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f41f40ed.js",
+    "static/js/2.e7bdb8ea.chunk.js",
+    "static/css/main.062ba9dd.chunk.css",
+    "static/js/main.61222257.chunk.js"
+  ]
+}
